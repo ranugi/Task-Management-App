@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="new_task">New Task</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="place_holder">Place Holder</string>
+    <string name="newTask">New Task</string>
+    <string name="task_ease">Task Ease</string>
+    <string name="task_easey">Task Ease!</string>
+</resources>
